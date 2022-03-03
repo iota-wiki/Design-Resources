@@ -1,3 +1,5 @@
+![Resources](https://user-images.githubusercontent.com/90569726/156609715-4078d558-5b23-467e-82ad-e8bb3048c572.png)
+
 # What is this?
   - The main source for graphics and more, used for the Wiki
 
