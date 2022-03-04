@@ -16,6 +16,7 @@
     - Social Media (Images for Social Media usage)
     - Bots (The Wiki Section-Bots)
     - Content Images (Used images for the Wiki-Content)
+    - Flowchart Library
 
 
 # What else do i need to know?
