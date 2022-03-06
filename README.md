@@ -8,7 +8,7 @@
     - Graphics (Raws for image creation)
     - Templates (Use them for Banner or small content images)
     - Videos (Wiki Outro)
-    - Logo (Wiki Logo + animated)
+    - Logo (Wiki Logo + animated | IOTA Logo)
     - Infographics
     - Social Media (Images for Social Media usage)
     - Bots (The Wiki Section-Bots)
