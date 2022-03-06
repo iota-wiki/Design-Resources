@@ -1,8 +1,5 @@
 ![Resources](https://user-images.githubusercontent.com/90569726/156617158-a521556a-6e44-46a4-8828-ce0733f79464.png)
 
-# What is this?
-  - The main source for graphics and more, used for the Wiki
-
 
 # What can i find here?
   - You will find here images etc used for the Wiki
@@ -16,6 +13,7 @@
     - Social Media (Images for Social Media usage)
     - Bots (The Wiki Section-Bots)
     - Content Images (Used images for the Wiki-Content)
+    - Flowchart Library
 
 
 # What else do i need to know?
