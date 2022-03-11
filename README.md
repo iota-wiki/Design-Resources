@@ -17,6 +17,6 @@
 
 
 # What else do i need to know?
-  - Please follow the Design-Guideline if you want to contribute images for the Wiki. (Coming soon)
+  - Please follow the Design-Guideline if you want to contribute images for the Wiki
   - If you want to add new files, such as Icons etc, place them in the correct folder to keep a clean structure
   - Be aware of how you name files
