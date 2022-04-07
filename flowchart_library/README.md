@@ -1,7 +1,7 @@
 **IMPORTANT - If you are creating a Flowchart for the Identity Framework, keep in mind to follow the Business Process Model And Notation Version 2.0!
-https://www.omg.org/spec/BPMN/2.0/
+https://www.omg.org/spec/BPMN/2.0/**
 
-This means you are not allowed to change shapes of elements. Coloring is allowed.**
+**This means you are not allowed to change shapes of elements. Coloring is allowed.**
 
 
 
