@@ -14,7 +14,7 @@ We would like to have beautiful Flowcharts that fits the Wiki Design. These libr
 
 # How does it work?
 
-Step 1: Go to draw.io and create or import an .xml Flowchart
+Step 1: Go to draw.io and create or import an .svg Flowchart
 
 Step 2: Go to the menu on the left and click "File" > "Open Library from" > "Github"
 
