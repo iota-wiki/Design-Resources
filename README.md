@@ -24,7 +24,7 @@
 1. Fork this repository. 
 2. Open [Draw.io](https://app.diagrams.net/).
 3. Click **File** > **Open Library From** > **URL**.
-4. Paste "https://raw.githubusercontent.com/iota-wiki/Design-Resources/main/flowchart_library/flowchart.xml". 
+4. Paste https://raw.githubusercontent.com/iota-wiki/Design-Resources/main/flowchart_library/flowchart.xml. 
 5. Open the **flowchart_library** folder. 
 6. Select **flowchart.xml** file. 
 7. Create you IOTA themed graphs. 
