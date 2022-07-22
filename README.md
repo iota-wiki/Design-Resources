@@ -19,12 +19,9 @@
   - If you want to add new files, such as Icons etc, place them in the correct folder to keep a clean structure
   - Be aware of how you name files
 
-# Add Design Resources To [Draw.io](https://app.diagrams.net/)
+## Add Design Resources To [Draw.io](https://app.diagrams.net/)
 
-1. Fork this repository. 
-2. Open [Draw.io](https://app.diagrams.net/).
-3. Click **File** > **Open Library From** > **URL**.
-4. Paste https://raw.githubusercontent.com/iota-wiki/Design-Resources/main/flowchart_library/flowchart.xml. 
-5. Open the **flowchart_library** folder. 
-6. Select **flowchart.xml** file. 
-7. Create you IOTA themed graphs. 
+1. Open [Draw.io](https://app.diagrams.net/).
+2. Click **File** > **Open Library From** > **URL**.
+3. Paste https://raw.githubusercontent.com/iota-wiki/Design-Resources/main/flowchart_library/flowchart.xml. 
+4. Create your IOTA-themed graphs. 
