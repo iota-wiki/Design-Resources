@@ -18,3 +18,13 @@
   - Please follow the Design-Guideline if you want to contribute images for the Wiki
   - If you want to add new files, such as Icons etc, place them in the correct folder to keep a clean structure
   - Be aware of how you name files
+
+## Add Design Resources To [Draw.io](https://app.diagrams.net/)
+
+1. Open [Draw.io](https://app.diagrams.net/).
+2. Click **File** > **Open Library From** > **URL**.
+3. Paste the RAW URL of the library, for example:
+```
+https://raw.githubusercontent.com/iota-wiki/Design-Resources/main/flowchart_library/flowchart.xml
+```
+4. Create your IOTA-themed graphs. 
